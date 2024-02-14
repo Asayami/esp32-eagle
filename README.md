@@ -1,4 +1,4 @@
-# ESP32-Deagle
+# ESP32-Eagle
 <img src="https://asayami.github.io/embedded_source/esp32_deagle_icon.png" style="width:20%">
 ESP32 Security Camera (motion detect, send notification, web streaming &amp; configuration)
 
@@ -8,9 +8,9 @@ Main features:
  - Send Images & Notification (Telegram Bot)
  - Web Streaming & Camera Configuration
 
-Vietnamese post: [ESP32-Deagle](https://asayami.github.io/embedded/esp32_cam.html "ESP32-Deagle")
+Vietnamese post: [ESP32-Eagle](https://asayami.github.io/embedded/esp32_cam.html "ESP32-Eagle")
 ### Firmware
-Regarding software, my code is built based on the EloquentSurveillance library. EloquentSurveillance contains individual camera features such as motion detect, web streaming, and send notification. The code of ESP32-Deagle integrates and synchronizes those 3 features to run in parallel, and adds a camera manager (ESP32-Deagle System Manager).
+Regarding software, my code is built based on the EloquentSurveillance library. EloquentSurveillance contains individual camera features such as motion detect, web streaming, and send notification. The code of ESP32-Eagle integrates and synchronizes those 3 features to run in parallel, and adds a camera manager (ESP32-Eagle System Manager).
 
 ### Installation
 To install, read and modify the information in the .ino file as follows:
